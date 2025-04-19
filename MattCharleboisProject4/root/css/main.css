@@ -25,12 +25,14 @@ body {
     display: flex;
     justify-content: center;
     gap: 15px;
+    font-family: God;
   }
   
   .main-nav a {
     color: #000000;
     text-decoration: none;
     transition: color 0.3s ease;
+    font-family: God;
   }
   
   .main-nav a:hover {
@@ -46,6 +48,7 @@ body {
     margin-bottom: 15px;
     color: #FFFFFF;
     font-family: God;
+    text-align: center;
   }
   
   p {
@@ -81,4 +84,5 @@ body {
   li {
     color: #ffffff;
   }
+  
   
