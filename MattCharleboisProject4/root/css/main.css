@@ -5,6 +5,11 @@ body {
     padding: 20px;
     background-color: #660000;
   }
+
+  @font-face {
+    font-family: God;
+    src: url(/MattCharleboisProject4/root/fonts/Godofwar-wPz6.ttf);
+  }
   
   header {
     background-color: #ffffff;
@@ -39,7 +44,8 @@ body {
   
   h1, h2 {
     margin-bottom: 15px;
-    color: #FFFFFF
+    color: #FFFFFF;
+    font-family: God;
   }
   
   p {
