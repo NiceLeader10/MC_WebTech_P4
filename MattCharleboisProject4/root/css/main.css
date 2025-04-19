@@ -23,13 +23,13 @@ body {
   }
   
   .main-nav a {
-    color: white;
+    color: #000000;
     text-decoration: none;
     transition: color 0.3s ease;
   }
   
   .main-nav a:hover {
-    color: #FFD700;
+    color: #981B19;
   }
   
   /* Main Content */
